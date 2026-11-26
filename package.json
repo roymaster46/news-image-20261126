@@ -1,0 +1,1 @@
+{"description":"One image summing up the world's news of Thursday 26 November 2026, as a newspaper front page, for the make.fun bounty news-image-20261126.","license":"0BSD","main":"main.ts","name":"news-image-20261126","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
